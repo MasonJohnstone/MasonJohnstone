@@ -1,5 +1,4 @@
 - Hi, I’m @MasonJohnstone
-- I'm currently developing a decentralized media app.
 - How to reach me masonjohnstone02@gmail.com
 
 <!---
